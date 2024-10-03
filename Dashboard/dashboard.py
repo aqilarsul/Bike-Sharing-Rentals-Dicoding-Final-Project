@@ -14,7 +14,7 @@ import streamlit as st
 
 sns.set(style='dark')
 
-day_df = pd.read_csv("dashboard/day.csv")
+day_df = pd.read_csv("Dashboard/day.csv")
 day_df.head()
 
 drop_col = ['windspeed']
