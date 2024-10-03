@@ -134,7 +134,7 @@ holiday_rent_df = create_holiday_rent_df(main_df)
 weather_rent_df = create_weather_rent_df(main_df)
 
 
-st.header('Bike Rental Dashboard 🚲')
+st.header('AqilRent - Bike Rental Dashboard 🚲')
 
 st.subheader('Daily Rentals')
 col1, col2, col3 = st.columns(3)
