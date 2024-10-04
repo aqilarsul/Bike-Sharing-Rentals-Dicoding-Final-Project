@@ -11,7 +11,6 @@ characteristics, file structures, and more, please refer to the Readme
 file. Therefore, I won't elaborate further here.
 
 1. File Structure
-.
 ├── Dashboard
 │   ├── dashboard.py
 │   └── day.csv
@@ -20,7 +19,7 @@ file. Therefore, I won't elaborate further here.
 │   ├── Readme.txt
 │   ├── day.csv
 |   └── hour.csv
-├── screenshots
+├── Screenshots
 |   ├── Rental Dashboard & Monthly Rentals.png
 |   ├── Seasonly Rentals.png
 |   ├── Weatherly Rentals.png
@@ -29,7 +28,7 @@ file. Therefore, I won't elaborate further here.
 ├── notebook.ipynb
 └── requirements.txt
 
-2. Project work cycle
+3. Project work cycle
  1. Data Wrangling:
    - Gathering data
    - Assessing data
