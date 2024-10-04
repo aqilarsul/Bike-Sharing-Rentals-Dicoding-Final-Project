@@ -7,18 +7,19 @@ For further information, like the background of this dataset, dataset characteri
 
 [ ]
 .
-├── dashboard
+├── Dashboard
 │   ├── dashboard.py
 │   └── day.csv
-├── data
+|   └── AqilRent.png
+├── Bike-sharing-dataset
 │   ├── Readme.txt
 │   ├── day.csv
 |   └── hour.csv
 ├── screenshots
-|   ├── Screenshots (91).png
-|   ├── Screenshots (92).png
-|   ├── Screenshots (93).png
-|   └── Screenshots (94).png
+|   ├── Rental Dashboard & Monthly Rentals.png
+|   ├── Seasonly Rentals.png
+|   ├── Weatherly Rentals.png
+|   └── Weekday, Working Day, and Holiday Rentals.png
 ├── README.md
 ├── notebook.ipynb
 └── requirements.txt
