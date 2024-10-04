@@ -11,19 +11,18 @@ characteristics, file structures, and more, please refer to the Readme
 file. Therefore, I won't elaborate further here.
 
 1. File Structure
-├── Dashboard
+├── dashboard
 │   ├── dashboard.py
 │   └── day.csv
-|   └── AqilRent.png
-├── Bike-sharing-dataset
+├── data
 │   ├── Readme.txt
 │   ├── day.csv
 |   └── hour.csv
-├── Screenshots
-|   ├── Rental Dashboard & Monthly Rentals.png
-|   ├── Seasonly Rentals.png
-|   ├── Weatherly Rentals.png
-|   └── Weekday, Working Day, and Holiday Rentals.png
+├── screenshots
+|   ├── Screenshots (91).png
+|   ├── Screenshots (92).png
+|   ├── Screenshots (93).png
+|   └── Screenshots (94).png
 ├── README.md
 ├── notebook.ipynb
 └── requirements.txt
