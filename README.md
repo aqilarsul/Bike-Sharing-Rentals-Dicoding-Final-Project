@@ -1,5 +1,5 @@
 ## Bike Rentals - Final Project Data Analytics 
-This is a final project from Dicoding for the "Belajar Analisis Data Dengan Python" course, aimed at analyzing and creating a dashboard from the bike sharing dataset. In the notebook file, I included the steps I took for the analysis, covering Data Wrangling, Exploratory Data Analysis, and Data Visualization. Additionally, I created a dashboard using Streamlit, which you can access by clicking the link in the right sidebar or here.
+This is a final project from Dicoding for the "Belajar Analisis Data Dengan Python" course, aimed at analyzing and creating a dashboard from the bike sharing dataset. In the notebook file, I included the steps I took for the analysis, covering Data Wrangling, Exploratory Data Analysis, and Data Visualization. Additionally, I created a dashboard using Streamlit, which you can access by clicking the link in the right sidebar or [here](https://bike-sharing-rentals-dicoding-final-project-yyw4s7kdygiumzfwtw.streamlit.app/).
 
 For more information, such as the background of this dataset, its
 characteristics, file structures, and more, please refer to the Readme
